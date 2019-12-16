@@ -6,4 +6,8 @@ git stash
 >>>>>>> Stashed changes
 hello new branck
 
+<<<<<<< Updated upstream
 merge
+=======
+git stash
+>>>>>>> Stashed changes
