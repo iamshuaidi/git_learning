@@ -5,3 +5,5 @@ do other things
 git stash
 >>>>>>> Stashed changes
 hello new branck
+
+merge
